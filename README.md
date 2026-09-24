@@ -77,6 +77,6 @@ O desenvolvimento deste repositório segue o padrão **GitFlow**:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/luana272727-cmyk
+git clone [https://github.com/luana272727-cmyk
 /projeto-solidario.git](https://github.com/luana272727-cmyk
 /projeto-solidario.git)
